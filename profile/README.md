@@ -2,48 +2,43 @@
 
 **Part of [SilentStudio](https://github.com/Silent-Studio-CN)**
 
-Open-source network protocol tooling, developer tools and authorized security
-testing infrastructure.
+English | [简体中文](README.zh-CN.md)
 
-SilentCodeTeams 是 SilentStudio 旗下的开源工程小组，专注于网络协议分析、
-开发者工具与授权安全测试基础设施。
+SilentCodeTeams is the open-source engineering group of SilentStudio. We build
+network protocol tooling, developer tools and authorized security testing
+infrastructure.
 
-## 我们在做什么
+## What we do
 
-- **NetTool**：Rust 实现的网络协议分析与授权安全测试核心。协议注册表、
-  透明代理、真实 pcap、跨平台 CLI，后续接入 Qt 客户端与独立后台 daemon。
-- **跨平台**：macOS、Windows x64/ARM64、Linux。
-- **可扩展**：协议 dissector、C ABI 插件、可独立部署的 helper。
-- **可验证**：单元测试、三平台 CI、真实 pcap 输出。
+- **NetTool ζ**: Rust core for network protocol analysis and authorized
+  security testing. Protocol registry, transparent proxy, real pcap,
+  cross-platform CLI, and a separate daemon/UI boundary.
+- Cross-platform: macOS, Windows x64/ARM64, Linux.
+- Extensible: protocol dissectors, C ABI plugins, standalone helpers.
+- Verifiable: unit tests, three-platform CI, real pcap output.
 
-## 项目
+## Projects
 
-| 项目 | 说明 | 状态 |
+| Project | Description | Status |
 | --- | --- | --- |
-| NetTool | Rust 网络协议分析与授权安全测试核心 | Private preview |
-| More tools | 开发者工具与协议实验 | 规划中 |
+| NetTool ζ | Rust network protocol analysis and authorized security testing core | Public |
 
-## 工程原则
+## Principles
 
-- Rust 优先；C 只用于操作系统薄垫片。
-- 核心依赖少、可离线构建，解析器可单独测试与 fuzz。
-- UI 与后台分离：Qt 客户端只通过本地 API 通信，崩溃不影响后台。
-- 多版本协议：TLS/SSL、HTTP、DNS、QUIC、WebSocket、Minecraft。
+- Rust-first; C only for OS shims.
+- Few dependencies, offline builds, parsers testable and fuzzable.
+- UI and backend are separate processes; a UI crash does not stop the backend.
+- Multi-version protocols: TLS/SSL, HTTP, DNS, QUIC, WebSocket, Minecraft.
 
-## 安全与合规
+## Security
 
-- 只用于自有网络或获得书面授权的测试。
-- 不提供隐蔽、规避监控或未经授权的远程控制功能。
-- 默认本地监听、显式授权、审计日志、可恢复。
-- 安全问题请按各仓库的 SECURITY.md 私下报告。
+- Use only on systems you own or are authorized to test.
+- No stealth, evasion or unauthorized remote-control features.
+- Local-only defaults, explicit authorization, audit logs, recovery.
+- Report vulnerabilities per the repository SECURITY.md.
 
-## 链接
+## Links
 
+- NetTool ζ: https://github.com/SilentCodeTeams/nettool
 - SilentStudio: https://github.com/Silent-Studio-CN
-- 组织主页: https://github.com/SilentCodeTeams
-
----
-
-**English**: SilentCodeTeams is the open-source engineering group of
-SilentStudio, building network protocol tooling and authorized security
-testing infrastructure. Rust-first, cross-platform, auditable by design.
+- Organization: https://github.com/SilentCodeTeams
