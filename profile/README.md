@@ -10,7 +10,7 @@ SilentCodeTeams 是 SilentStudio 旗下的开源工程小组，专注于网络�
 
 ## 我们在做什么
 
-- **NetTool ζ**：Rust 实现的网络协议分析与授权安全测试核心。协议注册表、
+- **NetTool**：Rust 实现的网络协议分析与授权安全测试核心。协议注册表、
   透明代理、真实 pcap、跨平台 CLI，后续接入 Qt 客户端与独立后台 daemon。
 - **跨平台**：macOS、Windows x64/ARM64、Linux。
 - **可扩展**：协议 dissector、C ABI 插件、可独立部署的 helper。
@@ -20,7 +20,7 @@ SilentCodeTeams 是 SilentStudio 旗下的开源工程小组，专注于网络�
 
 | 项目 | 说明 | 状态 |
 | --- | --- | --- |
-| NetTool ζ | Rust 网络协议分析与授权安全测试核心 | Private preview |
+| NetTool | Rust 网络协议分析与授权安全测试核心 | Private preview |
 | More tools | 开发者工具与协议实验 | 规划中 |
 
 ## 工程原则
