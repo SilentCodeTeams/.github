@@ -1,44 +1,54 @@
 # SilentCodeTeams
 
-**Part of [SilentStudio](https://github.com/Silent-Studio-CN)**
+**SilentStudio 旗下的开源工程团队**
 
-English | [简体中文](README.zh-CN.md)
+SilentCodeTeams 是 SilentStudio 旗下的开源工程团队，专注于网络协议、开发者工具、跨平台系统与授权安全研究。
 
-SilentCodeTeams is the open-source engineering group of SilentStudio. We build
-network protocol tooling, developer tools and authorized security testing
-infrastructure.
+团队的工作不局限于单一项目。NetTool ζ 是当前的重点项目之一，同时我们持续投入协议分析、工程工具、系统实验与安全测试基础设施。
 
-## What we do
+## 工作方向
 
-- **NetTool ζ**: Rust core for network protocol analysis and authorized
-  security testing. Protocol registry, transparent proxy, real pcap,
-  cross-platform CLI, and a separate daemon/UI boundary.
-- Cross-platform: macOS, Windows x64/ARM64, Linux.
-- Extensible: protocol dissectors, C ABI plugins, standalone helpers.
-- Verifiable: unit tests, three-platform CI, real pcap output.
+- 网络协议与流量分析
+- 开发者工具与自动化
+- 跨平台系统与可观测性
+- 授权安全测试与防御研究
 
-## Projects
+## 项目
 
-| Project | Description | Status |
+| 项目 | 说明 | 状态 |
 | --- | --- | --- |
-| NetTool ζ | Rust network protocol analysis and authorized security testing core | Public |
+| NetTool ζ | Rust 网络协议分析与授权安全测试核心 | 公开 |
+| 更多项目 | 协议实验、开发者工具、系统组件 | 进行中 |
 
-## Principles
+## 工程原则
 
-- Rust-first; C only for OS shims.
-- Few dependencies, offline builds, parsers testable and fuzzable.
-- UI and backend are separate processes; a UI crash does not stop the backend.
-- Multi-version protocols: TLS/SSL, HTTP, DNS, QUIC, WebSocket, Minecraft.
+- 开源优先，默认可审计
+- Rust 优先；C 只用于操作系统薄垫片
+- UI 与后台分离，崩溃隔离
+- 多版本协议支持，元数据优先
+- 不手写密码学
 
-## Security
+## 参与
 
-- Use only on systems you own or are authorized to test.
-- No stealth, evasion or unauthorized remote-control features.
-- Local-only defaults, explicit authorization, audit logs, recovery.
-- Report vulnerabilities per the repository SECURITY.md.
+- 欢迎 issue 和 pull request
+- 遵守各仓库的 CONTRIBUTING
+- 不覆盖他人的工作，不 force-push main
 
-## Links
+## 安全
 
-- NetTool ζ: https://github.com/SilentCodeTeams/nettool
+- 仅用于自有系统或获得书面授权的测试
+- 不提供隐蔽、规避监控或未经授权的远程控制
+- 安全问题请按各仓库的 SECURITY.md 私下报告
+
+## 链接
+
 - SilentStudio: https://github.com/Silent-Studio-CN
-- Organization: https://github.com/SilentCodeTeams
+- SilentStudio 项目索引: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
+- NetTool ζ: https://github.com/SilentCodeTeams/nettool
+- 组织主页: https://github.com/SilentCodeTeams
+
+## 其他语言 / Other languages
+
+[English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+
+本页为 SilentCodeTeams 主页面；其他语言版本为附属翻译。
