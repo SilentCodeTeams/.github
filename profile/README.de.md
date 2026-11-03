@@ -6,7 +6,7 @@
 
 SilentCodeTeams ist ein Open-Source-Engineering-Team von SilentStudio. Wir arbeiten an Netzwerkprotokollen, Entwicklerwerkzeugen, plattformübergreifenden Systemen und autorisierter Sicherheitsforschung.
 
-Das Team ist nicht auf ein einzelnes Projekt beschränkt. NetTool ζ ist eines unserer aktuellen Projekte; wir arbeiten auch an Protokollanalyse, Engineering-Werkzeugen, Systemexperimenten und Infrastruktur für Sicherheitstests.
+Das Team arbeitet an mehreren Projekten und Themenbereichen, die wir hier nicht einzeln auflisten. Wir legen Wert auf Engineering-Qualität, Wartbarkeit, mehrsprachige und plattformübergreifende Praxis sowie Zusammenarbeit mit der Community.
 
 ## Was wir tun
 
@@ -15,20 +15,13 @@ Das Team ist nicht auf ein einzelnes Projekt beschränkt. NetTool ζ ist eines u
 - Plattformübergreifende Systeme und Beobachtbarkeit
 - Autorisierte Sicherheitstests und defensive Forschung
 
-## Projekte
-
-| Projekt | Beschreibung | Status |
-| --- | --- | --- |
-| NetTool ζ | Rust-Kern für Netzwerkprotokollanalyse und autorisierte Sicherheitstests | Öffentlich |
-| Weitere Projekte | Protokollexperimente, Werkzeuge, Systemkomponenten | In Arbeit |
-
 ## Prinzipien
 
 - Open Source zuerst, standardmäßig auditierbar
-- Rust zuerst; C nur für OS-Shims
-- Getrennte UI und Backend, Crash-Isolation
-- Mehrere Protokollversionen, Metadaten zuerst
-- Keine handgeschriebene Kryptografie
+- Mehrsprachig und plattformübergreifend, ohne einen einzigen Technologie-Stack vorzugeben
+- Wartbarkeit, Beobachtbarkeit und Dokumentation
+- Klare UI-/Backend-Grenzen und Fehlerisolierung
+- Autorisierte Sicherheitsforschung mit klaren Grenzen
 
 ## Mitmachen
 
@@ -46,5 +39,4 @@ Das Team ist nicht auf ein einzelnes Projekt beschränkt. NetTool ζ ist eines u
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio-Projektindex: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- NetTool ζ: https://github.com/SilentCodeTeams/nettool
 - Organisation: https://github.com/SilentCodeTeams

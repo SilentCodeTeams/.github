@@ -6,7 +6,7 @@
 
 SilentCodeTeams est une équipe d'ingénierie open source de SilentStudio, dédiée aux protocoles réseau, aux outils pour développeurs, aux systèmes multiplateformes et à la recherche en sécurité autorisée.
 
-L'équipe ne se limite pas à un seul projet. NetTool ζ est l'un de nos projets actuels ; nous travaillons aussi sur l'analyse de protocoles, les outils d'ingénierie, les expérimentations système et l'infrastructure de tests de sécurité.
+L'équipe travaille sur plusieurs projets et domaines, que nous ne listons pas individuellement ici. Nous privilégions la qualité d'ingénierie, la maintenabilité, les pratiques multilingues et multiplateformes, ainsi que la collaboration avec la communauté.
 
 ## Ce que nous faisons
 
@@ -15,20 +15,13 @@ L'équipe ne se limite pas à un seul projet. NetTool ζ est l'un de nos projets
 - Systèmes multiplateformes et observabilité
 - Tests de sécurité autorisés et recherche défensive
 
-## Projets
-
-| Projet | Description | Statut |
-| --- | --- | --- |
-| NetTool ζ | Cœur Rust d'analyse de protocoles réseau et de tests de sécurité autorisés | Public |
-| Autres projets | Expériences de protocoles, outils, composants système | En cours |
-
 ## Principes
 
 - Open source d'abord, auditable par défaut
-- Rust d'abord ; C uniquement pour les couches système
-- Séparation UI/backend et isolation des pannes
-- Protocoles multi-versions, métadonnées d'abord
-- Pas de cryptographie écrite à la main
+- Multilingue et multiplateforme, sans imposer une pile technologique unique
+- Maintenabilité, observabilité et documentation
+- Frontières claires entre UI et backend, isolation des pannes
+- Recherche en sécurité autorisée avec des limites explicites
 
 ## Contribuer
 
@@ -46,5 +39,4 @@ L'équipe ne se limite pas à un seul projet. NetTool ζ est l'un de nos projets
 
 - SilentStudio : https://github.com/Silent-Studio-CN
 - Index des projets SilentStudio : https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- NetTool ζ : https://github.com/SilentCodeTeams/nettool
 - Organisation : https://github.com/SilentCodeTeams

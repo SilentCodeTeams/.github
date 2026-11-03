@@ -2,11 +2,11 @@
 
 **An open-source engineering team under SilentStudio**
 
-> Secondary translation. The Simplified Chinese version prevails: [简体中文（主要）](README.md)
+> Secondary translation. The Simplified Chinese version prevails: [简体中文（主）](README.md)
 
 SilentCodeTeams is an open-source engineering team under SilentStudio, focused on network protocols, developer tools, cross-platform systems and authorized security research.
 
-The team is not limited to a single project. NetTool ζ is one of our current focus projects; we also work on protocol analysis, engineering tools, systems experiments and security testing infrastructure.
+The team works across multiple projects and directions; we do not list them individually here. We focus on engineering quality, maintainability, multi-language and multi-platform practice, and collaboration with the community.
 
 ## What we do
 
@@ -15,20 +15,13 @@ The team is not limited to a single project. NetTool ζ is one of our current fo
 - Cross-platform systems and observability
 - Authorized security testing and defensive research
 
-## Projects
-
-| Project | Description | Status |
-| --- | --- | --- |
-| NetTool ζ | Rust network protocol analysis and authorized security testing core | Public |
-| More projects | Protocol experiments, developer tools, system components | In progress |
-
 ## Principles
 
 - Open source first, auditable by default
-- Rust-first; C only for OS shims
-- Separated UI and backend with crash isolation
-- Multi-version protocols, metadata first
-- No hand-written cryptography
+- Multi-language and multi-platform, with no single mandated stack
+- Maintainability, observability and documentation
+- Clear UI/backend boundaries and fault isolation
+- Authorized security research with explicit boundaries
 
 ## Contributing
 
@@ -46,5 +39,4 @@ The team is not limited to a single project. NetTool ζ is one of our current fo
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio project index: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- NetTool ζ: https://github.com/SilentCodeTeams/nettool
 - Organization: https://github.com/SilentCodeTeams
