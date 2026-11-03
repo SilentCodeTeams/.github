@@ -29,14 +29,19 @@ SilentCodeTeams は SilentStudio のオープンソースエンジニアリン�
 - 各リポジトリの CONTRIBUTING に従ってください
 - 他者の作業を上書きしない；main へ force-push しない
 
-## セキュリティ
+## 保守とセキュリティ
 
-- 所有するシステム、または書面で許可されたテストにのみ使用
-- 隠蔽、回避、未許可のリモート制御は提供しない
-- 脆弱性は各リポジトリの SECURITY.md に従い非公開で報告
+- SilentCodeTeams はセキュリティ報告を重視し、透明に対応します。本ポリシーは SilentCodeTeams が保守するプロジェクトに適用されます。
+- 最新の安定版は完全なセキュリティ更新を提供し、前の安定版は重大な修正のみ、それ以前は要望に応じて対応します。
+- 脆弱性は SilentStudio@feedback.email.cn まで報告してください。修正前に詳細を公開しないでください。
+- 受領確認は 24 時間以内、検証は 48 時間以内、重大な修正計画は 7 日以内、中・低リスクは 14 日以内。
+- 善意の報告者を追及しません。データの悪用やシステムの妨害は行わないでください。
+- 所有するシステム、または書面で許可されたテストにのみ使用してください。隠蔽、回避、未許可のリモート制御は提供しません。
+- 最終更新：2026-11-03。
 
 ## リンク
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio プロジェクト索引: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- 組織: https://github.com/SilentCodeTeams
+- フィードバック: https://github.com/SilentCodeTeams/feedback
+- 連絡先: SilentStudio@Home.email.cn

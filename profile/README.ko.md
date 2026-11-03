@@ -29,14 +29,19 @@ SilentCodeTeams는 SilentStudio 산하의 오픈소스 엔지니어링 팀으로
 - 각 저장소의 CONTRIBUTING을 따라 주세요
 - 다른 사람의 작업을 덮어쓰지 말고 main에 force-push하지 마세요
 
-## 보안
+## 유지보수 및 보안
 
-- 소유한 시스템 또는 서면으로 허가된 테스트에만 사용
-- 은닉, 회피, 무단 원격 제어 기능을 제공하지 않음
-- 취약점은 각 저장소의 SECURITY.md에 따라 비공개로 보고
+- SilentCodeTeams는 보안 보고를 중시하고 투명하게 대응합니다. 이 정책은 SilentCodeTeams가 유지보수하는 프로젝트에 적용됩니다.
+- 최신 안정판은 전체 보안 업데이트를 제공하고, 이전 안정판은 중요 수정만, 그 이전 버전은 요청 시 지원합니다.
+- 취약점은 SilentStudio@feedback.email.cn으로 보고하고, 수정 전에는 세부 내용을 공개하지 마세요.
+- 접수 확인은 24시간 이내, 검증은 48시간 이내, 중요 수정 계획은 7일 이내, 중·저위험은 14일 이내입니다.
+- 선의의 보고자는 추적하지 않습니다. 데이터 악용이나 시스템 방해를 하지 마세요.
+- 소유한 시스템 또는 서면으로 허가된 테스트에만 사용하세요. 은닉, 회피, 무단 원격 제어는 제공하지 않습니다.
+- 최종 업데이트: 2026-11-03.
 
 ## 링크
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio 프로젝트 색인: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- 조직: https://github.com/SilentCodeTeams
+- 피드백: https://github.com/SilentCodeTeams/feedback
+- 문의: SilentStudio@Home.email.cn

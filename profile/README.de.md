@@ -29,14 +29,19 @@ Das Team arbeitet an mehreren Projekten und Themenbereichen, die wir hier nicht 
 - Folge dem CONTRIBUTING des jeweiligen Repositories
 - Überschreibe nicht die Arbeit anderer; kein Force-Push auf main
 
-## Sicherheit
+## Wartung und Sicherheit
 
-- Nur auf Systemen verwenden, die du besitzt oder für die du autorisiert bist
-- Keine Tarnung, Umgehung oder unbefugte Fernsteuerung
-- Melde Schwachstellen privat gemäß der SECURITY.md des jeweiligen Repositories
+- SilentCodeTeams nimmt Sicherheitsmeldungen ernst und reagiert transparent. Diese Richtlinie gilt für von SilentCodeTeams betreute Projekte.
+- Die neueste stabile Version erhält vollständige Sicherheitsupdates; die vorherige stabile Version nur kritische Korrekturen; ältere auf Anfrage.
+- Melde Schwachstellen an SilentStudio@feedback.email.cn. Veröffentliche keine Details vor einem Fix.
+- Bestätigung innerhalb von 24 Stunden; Validierung innerhalb von 48 Stunden; kritischer Fixplan innerhalb von 7 Tagen; mittlere und niedrige Risiken innerhalb von 14 Tagen.
+- Gutgläubige Melder werden nicht verfolgt. Missbrauche keine Daten und störe keine Systeme.
+- Nur auf Systemen verwenden, die du besitzt oder für die du autorisiert bist. Keine Tarnung, Umgehung oder unbefugte Fernsteuerung.
+- Letzte Aktualisierung: 2026-11-03.
 
 ## Links
 
 - SilentStudio: https://github.com/Silent-Studio-CN
 - SilentStudio-Projektindex: https://github.com/Silent-Studio-CN/SilentStudio-ProjectList
-- Organisation: https://github.com/SilentCodeTeams
+- Feedback: https://github.com/SilentCodeTeams/feedback
+- Kontakt: SilentStudio@Home.email.cn
