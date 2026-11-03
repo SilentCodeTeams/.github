@@ -8,14 +8,6 @@ SilentCodeTeams ist ein Open-Source-Engineering-Team von SilentStudio. Wir arbei
 
 Das Team arbeitet an mehreren Projekten und Themenbereichen, die wir hier nicht einzeln auflisten. Wir legen Wert auf Engineering-Qualität, Wartbarkeit, mehrsprachige und plattformübergreifende Praxis sowie Zusammenarbeit mit der Community.
 
-## Prinzipien
-
-- Open Source zuerst, standardmäßig auditierbar
-- Mehrsprachig und plattformübergreifend, ohne einen einzigen Technologie-Stack vorzugeben
-- Wartbarkeit, Beobachtbarkeit und Dokumentation
-- Klare UI-/Backend-Grenzen und Fehlerisolierung
-- Autorisierte Sicherheitsforschung mit klaren Grenzen
-
 ## Mitmachen
 
 - Issues und Pull Requests sind willkommen
