@@ -2,7 +2,7 @@
 
 **Un equipo de ingeniería de código abierto de SilentStudio**
 
-> Traducción secundaria. Prevalece la versión en chino simplificado: [简体中文（principal）](README.md)
+[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | Español | [Русский](README.ru.md)
 
 SilentCodeTeams es un equipo de ingeniería de código abierto de SilentStudio, centrado en protocolos de red, herramientas para desarrolladores, sistemas multiplataforma e investigación de seguridad autorizada.
 

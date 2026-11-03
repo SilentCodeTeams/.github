@@ -2,7 +2,7 @@
 
 **SilentStudio のオープンソースエンジニアリングチーム**
 
-> 附属翻訳です。解釈に相違がある場合は簡体字中国語版を優先します: [简体中文（主）](README.md)
+[简体中文](README.md) | [English](README.en.md) | 日本語 | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
 SilentCodeTeams は SilentStudio のオープンソースエンジニアリングチームです。ネットワークプロトコル、開発者ツール、クロスプラットフォームシステム、許可されたセキュリティ研究に取り組んでいます。
 

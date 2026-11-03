@@ -2,7 +2,7 @@
 
 **Команда open-source инженерии SilentStudio**
 
-> Второстепенный перевод. При расхождениях приоритет имеет версия на упрощённом китайском: [简体中文（основная）](README.md)
+[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | Русский
 
 SilentCodeTeams — команда open-source инженерии SilentStudio, работающая над сетевыми протоколами, инструментами для разработчиков, кроссплатформенными системами и авторизованными исследованиями безопасности.
 

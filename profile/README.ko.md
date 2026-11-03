@@ -2,7 +2,7 @@
 
 **SilentStudio 산하 오픈소스 엔지니어링 팀**
 
-> 부속 번역입니다. 해석에 차이가 있으면 중국어 간체 버전이 우선합니다: [简体中文（주）](README.md)
+[简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | 한국어 | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
 SilentCodeTeams는 SilentStudio 산하의 오픈소스 엔지니어링 팀으로, 네트워크 프로토콜, 개발자 도구, 크로스플랫폼 시스템, 허가된 보안 연구를 다룹니다.
 

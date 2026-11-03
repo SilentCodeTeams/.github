@@ -2,7 +2,7 @@
 
 **SilentStudio 旗下的开源工程团队**
 
-简体中文（主） | 其他语言 / Other languages: [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
+简体中文 | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
 SilentCodeTeams 是 SilentStudio 旗下的开源工程团队，关注网络协议、开发者工具、跨平台系统与授权安全研究。
 
