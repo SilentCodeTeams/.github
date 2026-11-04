@@ -1,16 +1,16 @@
 # SilentCodeTeams
 
-**SilentStudio 旗下的开源工程团队**
+**SilentStudio 旗下的开发团队**
 
 简体中文 | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-SilentCodeTeams 是 SilentStudio 旗下的开源工程团队，关注网络协议、开发者工具、跨平台系统与授权安全研究。
+SilentCodeTeams 是 SilentStudio 旗下的开发团队，关注网络协议、开发者工具、跨平台系统与授权安全研究。我们的项目不一定开源；公开项目会明确标注。
 
 团队的工作覆盖多个项目与方向，不在此逐个列出。我们更关注工程质量、可维护性、多语言与多平台实践，以及与社区协作的方式。
 
 ## 参与
 
-- 欢迎 issue 和 pull request
+- 公开项目欢迎 issue 和 pull request；非公开项目不对外。
 - 遵守各仓库的 CONTRIBUTING
 - 不覆盖他人的工作，不 force-push main
 

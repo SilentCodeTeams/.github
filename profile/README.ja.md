@@ -1,16 +1,16 @@
 # SilentCodeTeams
 
-**SilentStudio のオープンソースエンジニアリングチーム**
+**SilentStudio の開発チーム**
 
 [简体中文](README.md) | [English](README.en.md) | 日本語 | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-SilentCodeTeams は SilentStudio のオープンソースエンジニアリングチームです。ネットワークプロトコル、開発者ツール、クロスプラットフォームシステム、許可されたセキュリティ研究に取り組んでいます。
+SilentCodeTeams は SilentStudio の開発チームです。ネットワークプロトコル、開発者ツール、クロスプラットフォームシステム、許可されたセキュリティ研究に取り組んでいます。私たちのプロジェクトは必ずしもオープンソースではありません。公開プロジェクトはそのように明示します。
 
 チームは複数のプロジェクトと領域にまたがって活動しており、ここでは個別には列挙しません。私たちはエンジニアリングの品質、保守性、多言語・マルチプラットフォームの実践、コミュニティとの協働を重視しています。
 
 ## 参加
 
-- issue と pull request を歓迎します
+- 公開プロジェクトでは issue と pull request を歓迎します。非公開プロジェクトは外部からの参加を受け付けません。
 - 各リポジトリの CONTRIBUTING に従ってください
 - 他者の作業を上書きしない；main へ force-push しない
 

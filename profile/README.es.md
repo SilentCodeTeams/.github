@@ -1,16 +1,16 @@
 # SilentCodeTeams
 
-**Un equipo de ingeniería de código abierto de SilentStudio**
+**Un equipo de desarrollo de SilentStudio**
 
 [简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | Español | [Русский](README.ru.md)
 
-SilentCodeTeams es un equipo de ingeniería de código abierto de SilentStudio, centrado en protocolos de red, herramientas para desarrolladores, sistemas multiplataforma e investigación de seguridad autorizada.
+SilentCodeTeams es un equipo de desarrollo de SilentStudio, centrado en protocolos de red, herramientas para desarrolladores, sistemas multiplataforma e investigación de seguridad autorizada. Nuestros proyectos no son necesariamente de código abierto; los proyectos públicos se marcan como tales.
 
 El equipo trabaja en varios proyectos y áreas, que no enumeramos individualmente aquí. Valoramos la calidad de ingeniería, el mantenimiento, las prácticas multilingües y multiplataforma, y la colaboración con la comunidad.
 
 ## Contribuir
 
-- Issues y pull requests son bienvenidos
+- Los proyectos públicos aceptan issues y pull requests; los proyectos privados no están abiertos a contribuciones externas.
 - Sigue el CONTRIBUTING de cada repositorio
 - No sobrescribas el trabajo de otros; no hagas force-push a main
 

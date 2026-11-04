@@ -1,16 +1,16 @@
 # SilentCodeTeams
 
-**Ein Open-Source-Engineering-Team von SilentStudio**
+**Ein Entwicklungsteam von SilentStudio**
 
 [简体中文](README.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Français](README.fr.md) | Deutsch | [Español](README.es.md) | [Русский](README.ru.md)
 
-SilentCodeTeams ist ein Open-Source-Engineering-Team von SilentStudio. Wir arbeiten an Netzwerkprotokollen, Entwicklerwerkzeugen, plattformübergreifenden Systemen und autorisierter Sicherheitsforschung.
+SilentCodeTeams ist ein Entwicklungsteam von SilentStudio. Wir arbeiten an Netzwerkprotokollen, Entwicklerwerkzeugen, plattformübergreifenden Systemen und autorisierter Sicherheitsforschung. Unsere Projekte sind nicht zwangsläufig Open Source; öffentliche Projekte werden als solche gekennzeichnet.
 
 Das Team arbeitet an mehreren Projekten und Themenbereichen, die wir hier nicht einzeln auflisten. Wir legen Wert auf Engineering-Qualität, Wartbarkeit, mehrsprachige und plattformübergreifende Praxis sowie Zusammenarbeit mit der Community.
 
 ## Mitmachen
 
-- Issues und Pull Requests sind willkommen
+- Öffentliche Projekte freuen sich über Issues und Pull Requests; private Projekte sind nicht für externe Beiträge geöffnet.
 - Folge dem CONTRIBUTING des jeweiligen Repositories
 - Überschreibe nicht die Arbeit anderer; kein Force-Push auf main
 
